@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+Header {
+  display: flex;
+  /*justify-content: space-between;*/
+  align-items: center;
+}
+
+.main-and-sidebar-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu {
+  color: #ef8f34;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.graphic{
+  color: #1cbc81;
+  font-size: 17px;
+  font-style: italic;
+  font-family: cursive;
+  flex: 1;
+}
+
+.adress {
+  color: #1cbc81;
+  font-size: 17px;
+  font-style: italic;
+  font-family: cursive;
+  flex: 1;
+}
+
+.maps {
+  flex: 1;
+}
+
+footer {
+  text-align: center;
+}
