@@ -9,6 +9,10 @@ Header {
   align-items: center;
 }
 
+.vitrina {
+  text-align: center;
+}
+
 .main-and-sidebar-wrapper {
   display: flex;
   flex-direction: row;
